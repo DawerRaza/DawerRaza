@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawerraza&label=Profile%20views&color=0e75b6&style=flat" alt="dawerraza" /> </p>
 
 - 🔭 I’m currently working on **Skill Connect**
-
+-🌱 I’m currently learning **python**
+- 💬 Ask me about **Flutter, Androidstudio,Xcode,Dart, Unity,C#, C++**
 - 📫 How to reach me **dawer.shah7050@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**

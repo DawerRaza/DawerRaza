@@ -1,4 +1,4 @@
-![logo](https://github.com/DawerRaza/DawerRaza/blob/main/future.png)
+![logo]([https://github.com/DawerRaza/DawerRaza/blob/main/future.png](https://github.com/DawerRaza/DawerRaza/blob/main/banner%20pic.png))
 <h1 align="center">Hi 👋, I'm Dawer Raza</h1>
 <h3 align="center">a passionate computer science engineer.</h3>
 

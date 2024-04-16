@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawer Raza</h1>
 <h3 align="center">a passionate computer science engineer.</h3>
 
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/DawerRaza/DawerRaza/assets/94078682/61f8dcc0-5312-4b9f-bd55-f53d8661c8dd)](https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawerraza&label=Profile%20views&color=0e75b6&style=flat" alt="dawerraza" /> </p>
 
